@@ -18,7 +18,7 @@
 		}
 	],
 	"url": "https://github.com/Ridiculosity-Games/trapped-doors",
-	"manifest": "https://raw.githubusercontent.com/Ridiculosity-Games/trapped-doors/download/1.0.0/module.json",
+	"manifest": "https://github.com/cadowtin/Map/blob/main/module%20(1).json",
     "download": "https://github.com/Ridiculosity-Games/trapped-doors/releases/download/1.0.0/module.zip",
 	"license": "https://github.com/Ridiculosity-Games/trapped-doors/blob/main/LICENSE",
 	"readme": "https://github.com/Ridiculosity-Games/trapped-doors/blob/main/README.md",
