@@ -65,10 +65,6 @@
                 "compatibility": {
                     "verified": "1.6.3"
                 }
-            },
-            {
-                "id": "sw5e",
-                "type": "system"
             }
         ]
     },
